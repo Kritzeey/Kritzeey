@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Valerian</h1>
 <h3 align="center">A (future) full-stack developer</h3>
 
-- 🌱 Currently learning **Express.js and other web development stuff.**
+- 🌱 Currently learning **Angular and Nest.js**
 
 - 📫 Reach me at **valerian14emmanuel@gmail.com**
 
@@ -9,8 +9,8 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,java,html,css">
 <p align="left"> </p>
 
-<h3 align="left">Tools and others</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,react,tailwind,mongodb">
+<h3 align="left">Tools</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,react,tailwind,postgresql,mongodb">
 <p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
