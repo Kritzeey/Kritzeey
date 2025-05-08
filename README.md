@@ -10,7 +10,7 @@
 <p align="left"> </p>
 
 <h3 align="left">Tools</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,react,tailwind,postgresql,mongodb">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,nodejs,react,tailwind,nextjs,postgresql,mongodb">
 <p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
