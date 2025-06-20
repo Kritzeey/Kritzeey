@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, I'm Valerian</h1>
 <h3 align="center">A (future) full-stack developer</h3>
 
-- 🌱 Currently learning **Express.js and NestJS**
+- 🌱 Currently learning **Svelte**
 
 - 📫 Reach me at **valerian14emmanuel@gmail.com**
 
 <h3 align="left">Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,java,html,css">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,java">
 <p align="left"> </p>
 
 <h3 align="left">Tools</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,nodejs,react,tailwind,nextjs,postgresql,mongodb,svelte">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,nodejs,react,nextjs,svelte,postgresql,mongodb,express,nestjs">
 <p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
