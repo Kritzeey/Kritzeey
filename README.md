@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Valerian</h1>
 <h3 align="center">A (future) full-stack developer</h3>
 
-- 🌱 Currently learning **Svelte and Laravel**
+- 🌱 Currently learning **SvelteKit and Next.js**
 
 - 📫 Reach me at **valerian14emmanuel@gmail.com**
 
